@@ -79,11 +79,7 @@ bibtex
 @article{buffoli2026penrose,
   author  = {Buffoli, Fabio},
   title   = {Optimal Energy Extraction from the Dynamic Ergosphere of {Kerr--Vaidya} Black Holes: A Phase-Diagram Approach},
-  journal = {MNRAS},
-  year    = {2026},
-  volume  = {},
-  pages   = {},
-  doi     = {}
+ 
 }
 License
 This project is licensed under the MIT License. See LICENSE for details.
