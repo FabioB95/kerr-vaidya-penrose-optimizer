@@ -133,8 +133,9 @@ If you use this code, please cite:
   author  = {Buffoli, Fabio},
   title   = {An Operative Viability Boundary for Relaxed Single-Particle
              {Penrose} Extraction in {Kerr--Vaidya} Spacetimes},
-  journal = {Monthly Notices of the Royal Astronomical Society},
+  journal = {Arxiv},
   year    = {2026},
+  doi     ={2609.19175},
   note    = {submitted}
 }
 ```
