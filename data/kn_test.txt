@@ -1,0 +1,4 @@
+mdot=-2e-03, Qdot=-0e+00: rmin=3.379, E_final=1.053382, |E - (E0+int rate)|_max=7.1e-10, |dH|_max=2.0e-12
+mdot=-0e+00, Qdot=-2e-03: rmin=3.153, E_final=0.997595, |E - (E0+int rate)|_max=1.5e-10, |dH|_max=2.7e-12
+mdot=-2e-03, Qdot=-2e-03: rmin=3.360, E_final=1.051974, |E - (E0+int rate)|_max=6.8e-10, |dH|_max=1.9e-12
+mdot=-2e-03, Qdot=+2e-03: rmin=3.400, E_final=1.055964, |E - (E0+int rate)|_max=7.6e-10, |dH|_max=1.8e-12
